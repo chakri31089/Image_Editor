@@ -30,4 +30,3 @@
 * Combined, these files create a functional and visually appealing image editing tool.
 
 ## project's result:
-![image](https://github.com/chakri31089/Simple_Image_Editor/assets/139550010/f13b0baf-1b2c-4aaf-b508-5fb7f1b37bcd)
