@@ -12,7 +12,7 @@ body{
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #E3F2FD;
+  background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%);
 }
 .container{
   width: 850px;
@@ -21,12 +21,12 @@ body{
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
-.container.disable .editor-panel,
-.container.disable .controls .reset-filter,
-.container.disable .controls .save-img{
+
+.container.disable :where(.editor-panel, .reset-filter, .save-img)  {
   opacity: 0.5;
   pointer-events: none;
 }
+
 .container h2{
   margin-top: -8px;
   font-size: 22px;
@@ -59,7 +59,7 @@ body{
   font-size: 14px;
   color: #6C757D;
   background: #fff;
-  border-radius: 3px;
+  border-radius: 5px;
   margin-bottom: 8px;
   border: 1px solid #aaa;
 }
@@ -125,7 +125,7 @@ body{
 .controls button{
   padding: 11px 20px;
   font-size: 14px;
-  border-radius: 3px;
+  border-radius: 5px;
   outline: none;
   color: #fff;
   cursor: pointer;
