@@ -1,4 +1,4 @@
-# Simple_Image_Editor
+# Image_Editor
 
 ## 1.index.html:
 ### Structure:
