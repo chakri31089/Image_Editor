@@ -19,7 +19,7 @@ body{
   width: 850px;
   padding: 30px 35px 35px;
   background: #fff;
-  border-radius: 15px;
+  border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
@@ -63,11 +63,11 @@ body{
 
 .editor-panel button{
   outline: none;
-  height: 45px;
+  height: 40px;
   font-size: 14px;
   color: #6C757D;
   background: #fff;
-  border-radius: 5px;
+  border-radius: 3px;
   margin-bottom: 8px;
   border: 1px solid #aaa;
 }
