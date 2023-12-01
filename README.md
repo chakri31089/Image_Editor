@@ -30,5 +30,5 @@
 * Combined, these files create a functional and visually appealing image editing tool.
 
 ## project's result:
-![image](https://github.com/chakri31089/Image_Editor/assets/139550010/2d4ff75e-1a54-457e-90d3-14e9418b28ed)
+![image](https://github.com/chakri31089/Image_Editor/assets/139550010/c9dbdc0a-cd33-4c2f-a538-150b33d53d67)
 
